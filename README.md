@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProgrammatoreInCamicia
-- 👀 I’m interested in Angular, NGRX, RXJS, TypeScript and more Front end and Jascript Based Back End
+- 👀 I’m interested in Angular, NGRX, RXJS, TypeScript and more Front end and Javascript Based Back End
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me an email to programamtoreincamicia@gmail.com
